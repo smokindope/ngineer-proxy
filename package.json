@@ -1,0 +1,11 @@
+{
+  "name": "ngxproxy",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
