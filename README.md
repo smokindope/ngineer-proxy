@@ -11,19 +11,19 @@
 **Shows usage text, as defined in `lib/help.txt`**
 
 ```
-https://ngxproxy.herokuapp.com
+https://ngxproxy.onrender.com
 ```
 
 **github.com with CORS headers**
 
 ```
-https://ngxproxy.herokuapp.com/http://github.com
+https://ngxproxy.onrender.com/http://github.com
 ```
 
 **Proxies `https://google.com`**
 
 ```
-https://ngxproxy.herokuapp.com/google.com:443
+https://ngxproxy.onrender.com/google.com:443
 ```
 
 ## Credits
